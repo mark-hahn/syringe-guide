@@ -1,9 +1,0 @@
-- from the Correct workflow how do i do step 4: Part > Boolean > Cut 
-  - i can't click on the cut icon because it is gray
-  - if I click on the boolean icon and choose difference i get two columns, first shape and second shape, 
-    - there is a box a and box b in each column
-    - box a is selected in left and nothing seletced in the right
-    - if i select box b in right column, when i hit apply a new item called cut appears at bottom of both columns 
-    - how do i finish the cut
-      - apply just keeps adding new items called cut
-      
